@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K3lKyi/wntcWQO1bpaTW+qOnesU3pwSfsussFsLGlx/5SI5wY50sUGcYPcpS2dPDttigaIey/43CXSBjkpC6Xg==",
+  "success": true,
+  "projectFilePath": "D:\\Repositorios\\ConsumirWeb-MVC\\ConsumirWeb-MVC\\ConsumirWeb-MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

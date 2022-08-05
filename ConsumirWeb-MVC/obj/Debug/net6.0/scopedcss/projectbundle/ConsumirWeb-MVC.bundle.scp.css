@@ -1,0 +1,49 @@
+/* _content/ConsumirWeb-MVC/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-odes2eiebw] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-odes2eiebw] {
+  color: #0077cc;
+}
+
+.btn-primary[b-odes2eiebw] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-odes2eiebw], .nav-pills .show > .nav-link[b-odes2eiebw] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-odes2eiebw] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-odes2eiebw] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-odes2eiebw] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-odes2eiebw] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-odes2eiebw] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
