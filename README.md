@@ -1,12 +1,12 @@
 # ConsumirApi
 Consumo de api, por método GET, obteniendo una lista de los títulos.
 
--Creacion de clase con lo parametros que tiene el Json de la API.
+-Creacion de clase con los parametros que tiene el Json de la API.
   -ObjetoObtenido
   
 -En HomeController:
   - Se modifica la seccion que conecta con la vista Index.
-    - Como vamos a utilizar programacion acincrona, tenemos que usar async.
+    - Como vamos a utilizar programacion asincrona, tenemos que usar async.
       - Por ende, modificar para que devuelva Task<ActiconResult>
   - Se crea:
     - Objeto httpClient, donde se declara que es una nueva instancia de HttpClient.
